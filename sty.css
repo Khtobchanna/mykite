@@ -1,0 +1,25 @@
+.gallery{
+    display: -ms-inline-grid;
+    width: 300px;
+}
+
+
+.gallery  {
+   border-image:auto;
+   background-image: url(TT.jpg);
+   background-size: cover;
+   float: right;
+   margin-bottom: 10px;
+   color: skyblue;
+  
+    
+    
+}
+
+.gallery span{
+    color: #ffa500;
+    text-align: center;
+
+
+}
+
